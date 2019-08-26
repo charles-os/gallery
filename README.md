@@ -22,9 +22,9 @@ The user can:
 
 ### Cloning and running
 
--Clone the application using git clone(this copies the app onto your device). In terminal:
+-Clone  the application using git clone(this copies the app onto your device). In terminal:
 
-           git clone https://github.com/charles-os/gallery.git
+           git-clone https://github.com/charles-os/gallery.git
            cd Instagram
 
 -Creating the virtual environment

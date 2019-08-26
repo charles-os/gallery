@@ -1,4 +1,5 @@
 # Gllery Application
+Application that display images and contains a database 
 
 ## Description
 

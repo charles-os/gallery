@@ -67,3 +67,6 @@ The user can:
 For any questions, troubleshooting or contributions, find me on:
 
 - Email: chaloo56@gmail.com
+
+[MIT LICENSE](https://github.com/charles-os/gallery/blob/master/license)
+Copyright (c) {2019}

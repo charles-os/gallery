@@ -11,3 +11,5 @@ The user can:
 - Post images in the profile page
 - Like the posted images
 - Comment on the posted images
+
+## Setup/Installation Requirements

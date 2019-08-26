@@ -55,3 +55,9 @@ The user can:
 
 ## Behaviour driven development/ Specifications
 
+| Behaviour               |       Sample Input       | Sample Output                                        |
+| :---------------------- | :----------------------: | :--------------------------------------------------- |
+| Sign Up required    |       On page load       | Registration form apperars                 |
+| Registration            | Submit regitration form  | User creates an account and receives welcome email   |
+| Subscription            | Submit subscription form | User receives email eb=very time there is a new post |
+| Post an image          | 'image.jpeg' | Image is posted and appears on profile page |

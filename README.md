@@ -13,3 +13,9 @@ The user can:
 - Comment on the posted images
 
 ## Setup/Installation Requirements
+
+### Prerequisites
+
+- python3.6
+- pip
+- Virtual environment(virtual)

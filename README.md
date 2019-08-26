@@ -22,7 +22,13 @@ The user can:
 
 ### Cloning and running
 
-Clone the application using git clone(this copies the app onto your device). In terminal:
+-Clone the application using git clone(this copies the app onto your device). In terminal:
 
            git clone https://github.com/charles-os/gallery.git
            cd Instagram
+
+ Creating the virtual environment
+
+           python3.6 -m venv --without-pip virtual
+           source virtual/bin/env
+           curl https://bootstrap.pypa.io/get-pip.py | python

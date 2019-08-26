@@ -61,3 +61,9 @@ The user can:
 | Registration            | Submit regitration form  | User creates an account and receives welcome email   |
 | Subscription            | Submit subscription form | User receives email eb=very time there is a new post |
 | Post an image          | 'image.jpeg' | Image is posted and appears on profile page |
+
+## Support and contact details
+
+For any questions, troubleshooting or contributions, find me on:
+
+- Email: chaloo56@gmail.com

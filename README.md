@@ -19,3 +19,10 @@ The user can:
 - python3.6
 - pip
 - Virtual environment(virtual)
+
+### Cloning and running
+
+Clone the application using git clone(this copies the app onto your device). In terminal:
+
+           git clone https://github.com/charles-os/gallery.git
+           cd Instagram

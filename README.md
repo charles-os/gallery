@@ -1,6 +1,6 @@
 # Gllery Application
 
-##Description
+## Description
 
 by **Charles Osoro**
 
@@ -51,7 +51,7 @@ The user can:
 
 - Python 3.6
 - Django
-- HTML and CSS 
+- HTML and CSS
 
 ## Behaviour driven development/ Specifications
 
